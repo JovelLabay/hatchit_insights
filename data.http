@@ -1,0 +1,10 @@
+
+GET http://localhost:3000/api/
+
+###
+
+POST http://localhost:3000/api/lastName/firstName
+
+###
+
+POST http://localhost:3000/api/vbnvbn/vvbnvbn?token=qweqwe?id=werwer
